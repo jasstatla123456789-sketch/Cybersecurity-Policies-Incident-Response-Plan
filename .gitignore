@@ -1,0 +1,29 @@
+# Temporary Files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Backup Files
+*.bak
+
+# Office Temporary Files
+~$*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Python Cache
+__pycache__/
+
+# Virtual Environment
+venv/
+.env
